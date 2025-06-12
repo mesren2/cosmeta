@@ -60,7 +60,7 @@ Let's create a simple hat as an example:
 2. **Position the cube**: 
    - For a hat: Position above the head area
    - X: -4 to 4 (8 units wide)
-   - Y: The minecraft player is 30 units tall, so ~30-34 depending.
+   - Y: The minecraft player is 32 units tall.
    - Z: -4 to 4 (8 units deep)
 
 #### Step 3: Refining the Shape
