@@ -63,7 +63,7 @@ Let's create a simple hat as an example:
    - Y: The minecraft player is 32 units tall.
    - Z: -4 to 4 (8 units deep)
      
-Or, you can use (this)[https://github.com/mesren2/cosmeta/blob/main/player-geometry.json] to import an accurate player model. (Note: this model has sleeves and a jacket that extrude from the body. these can be used to make coat/jacket cosmetics.)
+Or, you can use [this](https://github.com/mesren2/cosmeta/blob/main/player-geometry.json) to import an accurate player model. (Note: this model has sleeves and a jacket that extrude from the body. these can be used to make coat/jacket cosmetics.)
 
 #### Step 3: Refining the Shape
 1. **Select your cube** in the Outliner
